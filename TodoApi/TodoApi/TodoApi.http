@@ -1,0 +1,199 @@
+@TodoApi_HostAddress = https://localhost:7167
+
+GET {{TodoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{TodoApi_HostAddress}}/weatherforecast
+
+###
+
+
+POST {{TodoApi_HostAddress}}/todoitems/CreateContactItem
+Content-Type: application/json
+
+{
+  "name": "Hello",
+  "position": "Morning",
+  "description": "Wide awake"
+}
+
+###
+
+
+GET {{TodoApi_HostAddress}}/todoitems/GetAllContactItems
+
+###
+
+GET {{TodoApi_HostAddress}}/todoitems/GetContactItem/be9f963a-4846-47cc-aebe-6085070484b0
+
+###
+
+POST {{TodoApi_HostAddress}}/todoitems/UpdateContactItems
+Content-Type: application/json
+
+{
+  "contact_id": "be9f963a-4846-47cc-aebe-6085070484b0",
+  "name": "Harry",
+  "position": "CUSTOMER",
+  "description": "good"
+}
+
+###
+
+POST {{TodoApi_HostAddress}}/todoitems/DeleteContactItems
+Content-Type: application/json
+
+{
+  "contact_id": "5de1042e-989c-4027-b4d8-02ed26c6c6df"
+}
+
+###
+
+GET {{TodoApi_HostAddress}}/Contacts/Index
+
+###
+
+POST {{TodoApi_HostAddress}}/Contacts/Index
+Content-Type: application/json
+
+{
+  "pageSize": 0,
+  "pageIndex": 1,
+  "sortColumn": "",
+  "sortDirection": "ASC",
+  "search": {
+    "text": ""
+  }
+}
+
+###
+
+GET {{TodoApi_HostAddress}}/Contacts/GetDetail?=be9f963a-4846-47cc-aebe-6085070484b0
+
+###
+
+GET {{TodoApi_HostAddress}}/contacts/
+
+###
+
+POST {{TodoApi_HostAddress}}/contacts/PostContact
+Content-Type: application/json
+
+{
+  "name": "Harry",
+  "position": "CUSTOMER",
+  "description": "good",
+  "userCreate": "be9f963a-4846-47cc-aebe-6085070484b0"
+  "emails": {
+    "id" : "5de1042e-989c-4027-b4d8-02ed26c6c6df",
+    "value" : 0968169999
+  }
+}
+
+###
+
+POST {{TodoApi_HostAddress}}/contacts/Index
+Content-Type: application/json
+
+{
+  "pageSize": 100,
+  "pageIndex": 0,
+  "sortColumn": "",
+  "sortDirection": "ASC",
+  "search": {
+    "text": ""
+  }
+}
+
+###
+
+POST {{TodoApi_HostAddress}}/contacts/CreateContact
+Content-Type: application/json
+
+{
+  "name": "Seven attempt",
+  "description": "",
+  "position": "Test ",
+  "emails": [
+    {
+      "value": "meanseven@gmail.com"
+    }
+  ],
+  "phones": [
+    {
+      "value": "9876543210"
+    }
+  ],
+  "customerInfo": [
+    {
+      "customer_id": "3fa85f64-0000-4562-b3fc-2c963f66afa6",
+      "customer_stage_id": "PROSPECT",
+      "name": "Carpenter PROD",
+      "customerEmails": [
+        {
+          "id": "3aaaaaab-5717-4562-b3fc-2c963f66afa6",
+          "value": "741258963"
+        }
+      ],
+      "customerPhones": [
+        {
+          "id": "4aaffffb-5717-4562-b3fc-2c963f66afa6",
+          "value": "05678"
+        }
+      ]
+    }
+  ]
+}
+
+###
+
+POST {{TodoApi_HostAddress}}/contacts/UpdateContact
+Content-Type: application/json
+
+{
+  //ContactUpdateRequest
+}
+
+###
+
+POST {{TodoApi_HostAddress}}/contacts/CreateContact
+Content-Type: application/json
+
+{
+ "name": "eight attempt",
+  "description": "",
+  "position": "Test ",
+  "emails": [
+    {
+      "value": "meanseven@gmail.com"
+    }
+  ],
+  "phones": [
+    {
+      "value": "9876543270"
+    }
+  ],
+  "customerInfo": [
+    {
+      "customer_id": "3fa85114-0000-4562-b3fc-2c963f66afa6",
+      "customer_stage_id": "PROSPECT",
+      "name": "Carpenter PROD",
+      "customerEmails": [
+        {
+          "id": "3aaaaaab-5717-4562-b3fc-2c963f66afa6",
+          "value": "741258963"
+        }
+      ],
+      "customerPhones": [
+        {
+          "id": "4aaffffb-5717-4562-b3fc-2c963f66afa6",
+          "value": "05678"
+        }
+      ]
+    }
+  ]
+}
+
+###

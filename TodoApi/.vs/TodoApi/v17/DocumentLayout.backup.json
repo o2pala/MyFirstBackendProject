@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opbar\\source\\repos\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|c:\\users\\opbar\\source\\repos\\todoapi\\todoapi\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|c:\\users\\opbar\\source\\repos\\todoapi\\todoapi\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|c:\\users\\opbar\\source\\repos\\todoapi\\todoapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|c:\\users\\opbar\\source\\repos\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|c:\\users\\opbar\\source\\repos\\todoapi\\todoapi\\viewmodels\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\viewmodels\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|c:\\users\\opbar\\source\\repos\\todoapi\\todoapi\\viewmodels\\createupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\viewmodels\\createupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|c:\\users\\opbar\\source\\repos\\todoapi\\todoapi\\viewmodels\\iqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\viewmodels\\iqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|c:\\users\\opbar\\source\\repos\\todoapi\\todoapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|c:\\users\\opbar\\source\\repos\\todoapi\\todoapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|c:\\users\\opbar\\source\\repos\\todoapi\\todoapi\\viewmodels\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\viewmodels\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|c:\\users\\opbar\\source\\repos\\todoapi\\todoapi\\viewmodels\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\viewmodels\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|c:\\users\\opbar\\source\\repos\\todoapi\\todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|c:\\users\\opbar\\source\\repos\\todoapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|c:\\users\\opbar\\source\\repos\\todoapi\\todoapi\\viewmodels\\apicode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8BCED7-6C8C-4C10-9F59-F4453824ABC5}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\viewmodels\\apicode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\Models\\Contact.cs",
+              "RelativeToolTip": "TodoApi\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T10:31:51.626Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\Models\\Customer.cs",
+              "RelativeToolTip": "TodoApi\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:34:28.044Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "TodoApi\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T10:58:28.798Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\Repository\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Repository\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\Repository\\ContactRepository.cs",
+              "RelativeToolTip": "TodoApi\\Repository\\ContactRepository.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAIAwwEoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T08:11:53.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\ViewModels\\IndexViewModel.cs",
+              "RelativeDocumentMoniker": "TodoApi\\ViewModels\\IndexViewModel.cs",
+              "ToolTip": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\ViewModels\\IndexViewModel.cs",
+              "RelativeToolTip": "TodoApi\\ViewModels\\IndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T04:32:37.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IQueryableExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\ViewModels\\IQueryableExtensions.cs",
+              "RelativeDocumentMoniker": "TodoApi\\ViewModels\\IQueryableExtensions.cs",
+              "ToolTip": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\ViewModels\\IQueryableExtensions.cs",
+              "RelativeToolTip": "TodoApi\\ViewModels\\IQueryableExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:40:15.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\Repository\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Repository\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\Repository\\IContactRepository.cs",
+              "RelativeToolTip": "TodoApi\\Repository\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T10:29:16.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeToolTip": "TodoApi\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:45:35.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "APIResult.cs",
+              "DocumentMoniker": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\ViewModels\\APIResult.cs",
+              "RelativeDocumentMoniker": "TodoApi\\ViewModels\\APIResult.cs",
+              "ToolTip": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\ViewModels\\APIResult.cs",
+              "RelativeToolTip": "TodoApi\\ViewModels\\APIResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T04:22:48.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\ViewModels\\APIResponse.cs",
+              "RelativeDocumentMoniker": "TodoApi\\ViewModels\\APIResponse.cs",
+              "ToolTip": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\ViewModels\\APIResponse.cs",
+              "RelativeToolTip": "TodoApi\\ViewModels\\APIResponse.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T03:55:15.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "APICode.cs",
+              "DocumentMoniker": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\ViewModels\\APICode.cs",
+              "RelativeDocumentMoniker": "TodoApi\\ViewModels\\APICode.cs",
+              "ToolTip": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\ViewModels\\APICode.cs",
+              "RelativeToolTip": "TodoApi\\ViewModels\\APICode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T02:50:39.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
+              "RelativeToolTip": "TodoApi\\Models\\TodoContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T08:06:26.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\ViewModels\\CreateUpdateModel.cs",
+              "RelativeDocumentMoniker": "TodoApi\\ViewModels\\CreateUpdateModel.cs",
+              "ToolTip": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\ViewModels\\CreateUpdateModel.cs",
+              "RelativeToolTip": "TodoApi\\ViewModels\\CreateUpdateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T04:32:20.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TodoApi.http",
+              "DocumentMoniker": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\TodoApi.http",
+              "RelativeDocumentMoniker": "TodoApi\\TodoApi.http",
+              "ToolTip": "C:\\Users\\opbar\\source\\repos\\TodoApi\\TodoApi\\TodoApi.http",
+              "RelativeToolTip": "TodoApi\\TodoApi.http",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-26T04:16:14.895Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

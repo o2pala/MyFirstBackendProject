@@ -1,0 +1,74 @@
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
+
+#nullable disable
+
+namespace TodoApi.Migrations
+{
+    /// <inheritdoc />
+    public partial class UpdateCustomer : Migration
+    {
+        /// <inheritdoc />
+        protected override void Up(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DropForeignKey(
+                name: "FK_Contacts_Customers_Customerid",
+                table: "Contacts");
+
+            migrationBuilder.AddColumn<Guid>(
+                name: "Customerid1",
+                table: "Contacts",
+                type: "TEXT",
+                nullable: true);
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Contacts_Customerid1",
+                table: "Contacts",
+                column: "Customerid1",
+                unique: true);
+
+            migrationBuilder.AddForeignKey(
+                name: "FK_Contacts_Customers_Customerid",
+                table: "Contacts",
+                column: "Customerid",
+                principalTable: "Customers",
+                principalColumn: "id",
+                onDelete: ReferentialAction.Restrict);
+
+            migrationBuilder.AddForeignKey(
+                name: "FK_Contacts_Customers_Customerid1",
+                table: "Contacts",
+                column: "Customerid1",
+                principalTable: "Customers",
+                principalColumn: "id");
+        }
+
+        /// <inheritdoc />
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DropForeignKey(
+                name: "FK_Contacts_Customers_Customerid",
+                table: "Contacts");
+
+            migrationBuilder.DropForeignKey(
+                name: "FK_Contacts_Customers_Customerid1",
+                table: "Contacts");
+
+            migrationBuilder.DropIndex(
+                name: "IX_Contacts_Customerid1",
+                table: "Contacts");
+
+            migrationBuilder.DropColumn(
+                name: "Customerid1",
+                table: "Contacts");
+
+            migrationBuilder.AddForeignKey(
+                name: "FK_Contacts_Customers_Customerid",
+                table: "Contacts",
+                column: "Customerid",
+                principalTable: "Customers",
+                principalColumn: "id",
+                onDelete: ReferentialAction.Cascade);
+        }
+    }
+}
